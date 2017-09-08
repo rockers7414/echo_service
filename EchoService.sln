@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoService", "EchoService\EchoService.csproj", "{FD70A1B0-ECD0-4939-9644-A2E2B04DC02D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "EchoServer\EchoServer.csproj", "{CC80B3F4-C133-455F-A6CC-9B72FD5C92DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "EchoClient\EchoClient.csproj", "{5EB5ED57-41E5-432B-93DD-5080645A4BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD70A1B0-ECD0-4939-9644-A2E2B04DC02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD70A1B0-ECD0-4939-9644-A2E2B04DC02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD70A1B0-ECD0-4939-9644-A2E2B04DC02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD70A1B0-ECD0-4939-9644-A2E2B04DC02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC80B3F4-C133-455F-A6CC-9B72FD5C92DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC80B3F4-C133-455F-A6CC-9B72FD5C92DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC80B3F4-C133-455F-A6CC-9B72FD5C92DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC80B3F4-C133-455F-A6CC-9B72FD5C92DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB5ED57-41E5-432B-93DD-5080645A4BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB5ED57-41E5-432B-93DD-5080645A4BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB5ED57-41E5-432B-93DD-5080645A4BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB5ED57-41E5-432B-93DD-5080645A4BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
